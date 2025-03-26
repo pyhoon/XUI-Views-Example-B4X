@@ -1,12 +1,17 @@
 ﻿Build1=Default,b4i.example
-File1=MainPage.bil
+File1=1.bil
+File2=colors.txt
+File3=listofcolors.bil
 FileGroup1=Default Group
+FileGroup2=Default Group
+FileGroup3=Default Group
 Group=Default Group
-Library1=icore
-Library2=b4xpages
+Library1=b4xpages
+Library2=icore
+Library3=xui views
 Module1=|relative|..\B4XMainPage
-NumberOfFiles=1
-NumberOfLibraries=2
+NumberOfFiles=3
+NumberOfLibraries=3
 NumberOfModules=1
 Version=8.51
 @EndOfDesignText@

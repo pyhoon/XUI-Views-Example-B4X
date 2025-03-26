@@ -1,16 +1,21 @@
 ﻿AppType=JavaFX
 Build1=Default,b4j.example
-File1=MainPage.bjl
-FileGroup1=New Group
+File1=1.bjl
+File2=colors.txt
+File3=ListOfColors.bjl
+FileGroup1=Default Group
+FileGroup2=Default Group
+FileGroup3=Default Group
 Group=Default Group
-Library1=jcore
-Library2=jfx
-Library3=b4xpages
+Library1=b4xpages
+Library2=jcore
+Library3=jfx
+Library4=xui views
 Module1=|relative|..\B4XMainPage
-NumberOfFiles=1
-NumberOfLibraries=3
+NumberOfFiles=3
+NumberOfLibraries=4
 NumberOfModules=1
-Version=10
+Version=10.2
 @EndOfDesignText@
 #Region Project Attributes 
 	#MainFormWidth: 600
